@@ -1,0 +1,1 @@
+In Visual Studio 2026 Main.resx and SetUp.resx files are flagged as downloaded from the web. To unblock the files in File Explorer, right-click each file, select Properties, go to the General tab, and check the Unblock box under Security; then click Apply and OK, which removes the "downloaded from the internet" flag for safe files, allowing them to open without warnings. 
